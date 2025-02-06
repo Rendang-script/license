@@ -1,6 +1,6 @@
 {
-    "LINK" : "https://scx-id.pages.dev/scx",
+    "LINK" : "https://scx-id.pages.dev",
     "VER": "v1.0",
-    "GIT": "x",
+    "DIR": "scx",
     "API": "x"
 }
